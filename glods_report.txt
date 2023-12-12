@@ -1,0 +1,5 @@
+Iteration Report: 
+
+| iter  | success | #active points |    min fvalue   |    min alpha    |    max alpha    |
+|     0 |   --    |        1       | +1.35725613e+03 | +1.00000000e+00 | +1.00000000e+00 |
+|     1 |    0    |        1       | +1.35725613e+03 | +5.00000000e-01 | +5.00000000e-01 |
